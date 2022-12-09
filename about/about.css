@@ -3,7 +3,7 @@ body {
 }
 
 #header {
-  text-align: left;
+  text-align: right;
 }
 
 #navbar {
@@ -79,10 +79,11 @@ hr.style-six {
 }
 
 #aboutbox {
-  width: 876px;
-  height: 688px;
-  left: -1065px;
-  top: 177px;
+    position: absolute;
+    width: 1049px;
+    height: 515px;
+    left: 456px;
+    top: 328px;
   background: rgba(127, 134, 123, .7);
   font-family: 'Manrope', sans-serif;
 }
