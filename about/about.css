@@ -1,0 +1,88 @@
+body {
+    background: rgba(199, 199, 187,.75);
+}
+
+#header {
+  text-align: left;
+}
+
+#navbar {
+  position: absolute;
+  width: 345px;
+  height: 592px;
+  left: 75px;
+  top: 177px;
+  background: rgba(127, 134, 123, .6);
+}
+
+#title {
+  text-align: center;
+  left: 65px;
+  top: 190px;
+  position: absolute;
+  display: block;
+}
+
+#title h3 {
+  color: #C7C7BB;
+  font-family: 'Playfair Display', serif;
+  font-size: 36px;
+}
+
+#title h4 {
+  color: #D4C8BE;
+  font-style: italic;
+  font-family: 'Manrope', sans-serif;
+  font-size: 20px;
+}
+
+img {
+  position: absolute;
+  width: 200px;
+  height: 150px;
+  left: 70px;
+  top: 45px;
+  border-radius: 50%;
+}
+
+a {
+  text-decoration: none;
+  color: #C7C7BB;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 10px;
+}
+
+#navlinks {
+  font-family: 'Manrope', sans-serif;
+  position: absolute;
+  left: 67px;
+  top: 335px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+hr.style-six {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(199, 199, 187, .75);
+  border-bottom: 1px solid rgba(212, 200, 190, 0.5);
+}
+
+#aboutbox {
+  width: 876px;
+  height: 688px;
+  left: -1065px;
+  top: 177px;
+  background: rgba(127, 134, 123, .7);
+  font-family: 'Manrope', sans-serif;
+}
