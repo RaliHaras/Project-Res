@@ -4,7 +4,7 @@ body {
 
 #headerbar { 
     background: rgba(212, 200, 190, .5);
-    width: 1600px;
+    width: 100px;
     height: 150px;
     right: 1050px;
     top: 50px;
@@ -67,5 +67,5 @@ body {
     background: rgba(127, 134, 123, .6);
     height: 500px;
     width: 500px;
-    right: 600px;
+    right: 1000px;
   }
