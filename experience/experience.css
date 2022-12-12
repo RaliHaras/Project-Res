@@ -122,3 +122,38 @@ body {
     margin-left: auto;
     margin-top: 55px;
   }
+
+  #magnify {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    margin-top: -25px;
+    margin-right: -570px;
+  }
+
+  #zonedout {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    margin-top: -25px;
+    margin-right: -570px;
+  }
+
+  #steamer {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    margin-top: -25px;
+    margin-right: -570px;
+  }
+
+  #midterm {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    margin-top: -25px;
+    margin-right: -570px;
+  }
+
+  #hotel {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    margin-top: -25px;
+    margin-right: -570px;
+  }
